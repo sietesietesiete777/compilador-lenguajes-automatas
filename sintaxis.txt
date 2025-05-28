@@ -1,0 +1,4 @@
+crear nombre = "Juan";
+crear edad = 25;
+mostrar nombre;
+mostrar edad;
