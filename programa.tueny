@@ -1,0 +1,22 @@
+crear nombre = "Juan";
+crear edad = 25;
+mostrar nombre;
+mostrar edad;
+
+crear x = 3;
+crear y = 7;
+crear resultado = x + y;
+mostrar resultado;
+
+crear edad = 16;
+si (edad >= 18) {
+  mostrar "Mayor de edad";
+} sino {
+  mostrar "Menor de edad";
+}
+
+crear contador = 1;
+mientras (contador <= 5) {
+  mostrar contador;
+  crear contador = contador + 1;
+}
